@@ -1,0 +1,4 @@
+#ifndef _STDAFX_ENTRYPOINT_H_
+#define _STDAFX_ENTRYPOINT_H_
+
+#endif
